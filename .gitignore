@@ -1,4 +1,4 @@
-config/
-node_modules/
-.idea/
-dist/
+/config
+/node_modules
+/.idea
+/dist
